@@ -1,7 +1,7 @@
 # Rocketseat Ignite Lab Node.js 2022
 
-Rocketseat event where a scalable microservice was created using Node.js.
-A modern application using the Nest.js framework, Prisma ORM, TypeScript and Jest.
+Rocketseat event where a microservice for notifications was created using Node.js.
+A modern and scalable application using the Nest.js framework, Prisma ORM, TypeScript and Jest.
 
 ## 📚 Tech Stack
 
@@ -13,6 +13,6 @@ A modern application using the Nest.js framework, Prisma ORM, TypeScript and Jes
 ## 💻 Lectures
 <!-- ❌✔️ -->
 
-1. ✔️ Fundamentals of Nest.js & Prisma
-2. ❌ Domain, use cases and business rules
+1. ✔️ Fundamentals of Nest.js & Prisma (1h25)
+2. ✔️ Domain, use cases and business rules (1h47)
 3. ❌ Infrastructure and dependency injection
