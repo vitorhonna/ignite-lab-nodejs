@@ -14,6 +14,19 @@
 $ npm install
 ```
 
+## Running Prisma
+Add path to db (from prisma folder) in DATABASE_URL variable in an .env file (on the root directory)
+```bash
+$ touch .env
+Content: DATABASE_URL="file:./dev.db"
+```
+
+
+```bash
+$ npx prisma studio
+```
+
+
 ## Running the app
 
 ```bash
