@@ -21,6 +21,9 @@ $ touch .env
 Content: DATABASE_URL="file:./dev.db"
 ```
 
+```bash
+$ npx prisma generate
+```
 
 ```bash
 $ npx prisma studio
