@@ -55,3 +55,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Kafka (w/ Upstash)
+
+https://console.upstash.com/kafka
