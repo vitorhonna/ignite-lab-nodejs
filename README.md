@@ -16,3 +16,4 @@ A modern and scalable application using the Nest.js framework, Prisma ORM, TypeS
 1. ✔️ Fundamentals of Nest.js & Prisma (1h25)
 2. ✔️ Domain, use cases and business rules (1h47)
 3. ✔️ Infrastructure and dependency injection (1h51)
+4. ✔️ Messaging with Kafka (1h00)
